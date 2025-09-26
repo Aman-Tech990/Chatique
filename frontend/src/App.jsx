@@ -1,6 +1,7 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Contact from "./pages/Contact";
 import HeroSection from "./pages/HeroSection";
+import MainElement from "./layouts/MainElement";
 
 function App() {
 
